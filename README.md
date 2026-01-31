@@ -33,18 +33,6 @@ Install dependencies:
 Bash
 pip install -r requirements.txt
 
-Run the model:
-
-Bash
-python main.py
-
- Project Structure
- 
- Breast Cancer Classification using K-Nearest Neighbors (KNN).ipynb: The core Python script containing the model and visualization.
-
-requirements.txt: List of necessary Python libraries.
-
-README.md: Project documentation (this file).
 
 ## Conclusion
 With a 94.4% success rate, this KNN-based approach provides a reliable baseline for automated medical screening tools, effectively minimizing false diagnosis through optimized neighbor voting.
