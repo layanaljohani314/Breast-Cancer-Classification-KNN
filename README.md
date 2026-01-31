@@ -32,5 +32,7 @@ The model achieved high performance with a focus on medical diagnostic reliabili
 pip install -r requirements.txt
 
 
+
+
 ## Conclusion
 With a 94.4% success rate, this KNN-based approach provides a reliable baseline for automated medical screening tools, effectively minimizing false diagnosis through optimized neighbor voting.
