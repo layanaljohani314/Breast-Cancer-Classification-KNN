@@ -27,10 +27,8 @@ The model achieved high performance with a focus on medical diagnostic reliabili
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/layanaljohani314/Breast-Cancer-Classification-KNN]
-   
-Install dependencies:
-
-Bash
+2. **Install dependencies:**
+ ```bash
 pip install -r requirements.txt
 
 
